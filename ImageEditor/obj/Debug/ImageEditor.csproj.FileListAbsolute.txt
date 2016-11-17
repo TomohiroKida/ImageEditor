@@ -1,0 +1,20 @@
+c:\users\pc-201\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+c:\users\pc-201\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+c:\users\pc-201\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+c:\users\pc-201\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojResolveAssemblyReference.cache
+c:\users\pc-201\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+c:\users\pc-201\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+c:\users\pc-201\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.Cache
+c:\users\pc-201\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+c:\users\pc-201\documents\visual studio 2015\Projects\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csprojResolveAssemblyReference.cache
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.Cache
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\ImageEditor\bin\Debug\ClassEdit.dll
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\ImageEditor\bin\Debug\ClassEdit.pdb

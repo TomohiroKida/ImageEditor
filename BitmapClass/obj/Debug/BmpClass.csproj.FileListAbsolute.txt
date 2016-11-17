@@ -1,0 +1,14 @@
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\BitmapClass\bin\Debug\BitmapClass.dll
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\BitmapClass\bin\Debug\BitmapClass.pdb
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\BitmapClass\obj\Debug\BitmapClass.dll
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\BitmapClass\obj\Debug\BitmapClass.pdb
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\BitmapClass\bin\Debug\ClassEdit.dll
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\BitmapClass\bin\Debug\ClassEdit.pdb
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\BitmapClass\obj\Debug\BmpClass.csprojResolveAssemblyReference.cache
+C:\Users\PC-201\OneDrive\ドキュメント\ImageEditor\BitmapClass\bin\Debug\BitmapClass.dll
+C:\Users\PC-201\OneDrive\ドキュメント\ImageEditor\BitmapClass\bin\Debug\BitmapClass.pdb
+C:\Users\PC-201\OneDrive\ドキュメント\ImageEditor\BitmapClass\bin\Debug\ClassEdit.dll
+C:\Users\PC-201\OneDrive\ドキュメント\ImageEditor\BitmapClass\bin\Debug\ClassEdit.pdb
+C:\Users\PC-201\OneDrive\ドキュメント\ImageEditor\BitmapClass\obj\Debug\BmpClass.csprojResolveAssemblyReference.cache
+C:\Users\PC-201\OneDrive\ドキュメント\ImageEditor\BitmapClass\obj\Debug\BitmapClass.dll
+C:\Users\PC-201\OneDrive\ドキュメント\ImageEditor\BitmapClass\obj\Debug\BitmapClass.pdb

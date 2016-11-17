@@ -1,0 +1,10 @@
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\ClassEdit\bin\Debug\ClassEdit.dll
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\ClassEdit\bin\Debug\ClassEdit.pdb
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\ClassEdit\obj\Debug\EditClass.csprojResolveAssemblyReference.cache
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\ClassEdit\obj\Debug\ClassEdit.dll
+C:\Users\tomo\OneDrive\ドキュメント\ImageEditor\ClassEdit\obj\Debug\ClassEdit.pdb
+C:\Users\PC-201\OneDrive\ドキュメント\ImageEditor\ClassEdit\bin\Debug\ClassEdit.dll
+C:\Users\PC-201\OneDrive\ドキュメント\ImageEditor\ClassEdit\bin\Debug\ClassEdit.pdb
+C:\Users\PC-201\OneDrive\ドキュメント\ImageEditor\ClassEdit\obj\Debug\EditClass.csprojResolveAssemblyReference.cache
+C:\Users\PC-201\OneDrive\ドキュメント\ImageEditor\ClassEdit\obj\Debug\ClassEdit.dll
+C:\Users\PC-201\OneDrive\ドキュメント\ImageEditor\ClassEdit\obj\Debug\ClassEdit.pdb
